@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/KaatoDev/KaatoDev/assets/107152563/62fff5a6-e0cc-4a42-ab7c-7ad3c8ee183f" alt="" height="280" >
+<img src="https://github.com/KaatoDev/KaatoDev/assets/107152563/62fff5a6-e0cc-4a42-ab7c-7ad3c8ee183f" alt="" height="200" >
 </div>
 
 #
