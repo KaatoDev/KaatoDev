@@ -1,6 +1,9 @@
-<h2 align="center">  👋<br>Kaa<br>From Brazil</h2>
+<div align="center">
+<img src="https://github.com/KaatoDev/KaatoDev/assets/107152563/62fff5a6-e0cc-4a42-ab7c-7ad3c8ee183f" alt="" height="280" >
+</div>
 
-###
+#
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaatoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaatoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
