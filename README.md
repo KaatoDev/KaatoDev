@@ -1,7 +1,7 @@
 <div align="center">
  <img src="./images/KaaLogo4xOn.png" alt="" height="320" />
  
- <h1></h1>
+ <br>
  <br>
  
  <div>
@@ -9,6 +9,7 @@
   <a href="https://twitch.tv/Gaguenho"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
  </div>
  
+ <h1></h1>
  <br>
  
  <a href="https://skillicons.dev">
