@@ -4,8 +4,10 @@
  <br>
  <br>
  
+ <h3>Socials:</h1>
+ 
  <div>
-  <a href="https://discord.gg/z36NycVWfX"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.com/users/258701013198831617"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://twitch.tv/Gaguenho"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
  </div>
  
