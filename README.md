@@ -1,5 +1,5 @@
 <div align="center">
- <img src="./images/KaaLogo4xOn.png" alt="" height="320" />
+ <img src="./images/KAA%202.png" alt="" height="420" />
  
  <br>
  <br>
@@ -11,12 +11,30 @@
  
  <h1></h1>
  <br>
+
+ <br>
  
- <a href="https://skillicons.dev">
-  <img  src="https://skillicons.dev/icons?i=,js,ts,html,css,scss,nodejs,nextjs,react,java,kotlin,)"  alt=""/>
- </a>
+ <p align="center" gap="10px">
+   <img  src="https://skillicons.dev/icons?i=java,kotlin,nodejs,js,ts,,html,css,scss,bootstrap,tailwind"/>
+ </p>
+ <p align="center">
+   <img  src="https://skillicons.dev/icons?i=react,nextjs,spring,,mysql,sqlite,postgres"/>
+ </p>
+ <p align="center">
+   <img  src="https://skillicons.dev/icons?i=idea,clion,phpstorm,webstorm,vscode,visualstudio"/>
+ </p>
  
  <br>
+
+ Estudando atualmente:
+ <p align="center">
+   <img  src="https://skillicons.dev/icons?i=c,cpp,cs,php,unity"/>
+ </p>
+ 
+ <br>
+
+ <h1></h1>
+ 
  <br>
  
  <div>
