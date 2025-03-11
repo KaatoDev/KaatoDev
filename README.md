@@ -28,13 +28,6 @@
  
  <br>
 
- Estudando atualmente:
- <p align="center">
-   <img  src="https://skillicons.dev/icons?i=c,cpp,cs,php,unity"/>
- </p>
- 
- <br>
-
  <h1></h1>
  
  <br>
